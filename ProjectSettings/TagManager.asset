@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - EnemyMissiles
+  - PlayerMissiles
+  - ScanArea
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Actor
+    uniqueID: 145781933
+    locked: 0
+  - name: ActorWeapons
+    uniqueID: 734987179
+    locked: 0
+  - name: Effects
+    uniqueID: 1746193343
+    locked: 0
+  - name: UI
+    uniqueID: 2411634825
+    locked: 0
